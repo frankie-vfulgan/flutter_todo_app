@@ -9,9 +9,9 @@ Color customColor({String? date}) {
       return Colors.purple;
 
     case "Tomorrow":
-      return Colors.amber;
+      return Colors.pink;
 
     default:
-      return Colors.grey.shade300;
+      return Colors.grey.shade500;
   }
 }
